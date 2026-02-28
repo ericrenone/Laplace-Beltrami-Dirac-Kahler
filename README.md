@@ -2,15 +2,12 @@
 
 
 ---
-
-## What This Document Does
-
-This document dismantles and reconstructs, from axiomatic zero, the two most geometrically natural second- and first-order differential operators on a smooth manifold:
+## Core
 
 1. **The Laplace–Beltrami operator** Δ_g — the canonical "geometry-aware" generalisation of Δ = ∂²/∂x₁² + ··· + ∂²/∂xₙ².
 2. **The Dirac–Kähler operator** d − δ — a first-order "square root" of Δ_g that acts not on functions but on the full algebra of differential forms, and whose square recovers Δ_g.
 
-The organising insight is this: **the exterior algebra of a pseudo-Riemannian manifold already contains a Clifford algebra, and that Clifford algebra already contains the Dirac operator — no spinor bundle needs to be assumed.** The Dirac–Kähler equation is the intrinsic, coordinate-free Dirac equation that lives inside geometry itself.
+> **The exterior algebra of a pseudo-Riemannian manifold already contains a Clifford algebra, and that Clifford algebra already contains the Dirac operator — no spinor bundle needs to be assumed.** The Dirac–Kähler equation is the intrinsic, coordinate-free Dirac equation that lives inside geometry itself.
 
 ---
 
